@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdab9f5a-66f9-4bb5-8299-fd3013417f46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/constants/ApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/endpoints/PetEndpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/model/pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/response/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/specs/BaseSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/specs/pet/PetSpecs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/utils/ApiMethodUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/utils/PetUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AddPetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UpdatePetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/providers/PetDataProvider.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nQ6lQCngilgLLIbeOAfpfeqHhG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AddPetTests">
+    <configuration name="AddPetTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddPetTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPetTests.addEmptyPetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddPetTests" />
+      <option name="METHOD_NAME" value="addEmptyPetTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPetTests.addPetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddPetTests" />
+      <option name="METHOD_NAME" value="addPetTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPetTests.putIncorrectParamsInBody" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddPetTests" />
+      <option name="METHOD_NAME" value="putIncorrectParamsInBody" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdatePetTests.updatePetStatusTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UpdatePetTests" />
+      <option name="METHOD_NAME" value="updatePetStatusTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddPetTests" />
+        <item itemvalue="TestNG.UpdatePetTests.updatePetStatusTest" />
+        <item itemvalue="TestNG.AddPetTests.putIncorrectParamsInBody" />
+        <item itemvalue="TestNG.AddPetTests.addPetTest" />
+        <item itemvalue="TestNG.AddPetTests.addEmptyPetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdab9f5a-66f9-4bb5-8299-fd3013417f46" name="Changes" comment="" />
+      <created>1728893106266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728893106266</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
