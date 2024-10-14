@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdab9f5a-66f9-4bb5-8299-fd3013417f46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/constants/ApiConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/endpoints/PetEndpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/model/pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/response/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/specs/BaseSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/specs/pet/PetSpecs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/utils/ApiMethodUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/petstore/utils/PetUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AddPetTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UpdatePetTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/providers/PetDataProvider.java" afterDir="false" />
-    </list>
+    <list default="true" id="bdab9f5a-66f9-4bb5-8299-fd3013417f46" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,6 +120,14 @@
       <option name="presentableId" value="Default" />
       <updated>1728893106266</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1728928738130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728928738130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
